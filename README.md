@@ -17,7 +17,7 @@
 <h3 align="center"> Contact Me </h3>
 <p align="center">
   <a href="https://discord.com/users/797308789673033748" target="_blank"> <img src="icons/discord.svg" alt="discord" width="33" height="33"/> </a> &nbsp;
-  <a href="mailto:2gisgame@gmail.com" target="_blank"> <img src="icons/email.svg" alt="email" width="33" height="33"/> </a> &nbsp;
+  <a href="mailto:aegis2915@gmail.com" target="_blank"> <img src="icons/email.svg" alt="email" width="33" height="33"/> </a> &nbsp;
 </p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
